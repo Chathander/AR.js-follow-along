@@ -1,1 +1,0 @@
-# AR.js-follow-along
